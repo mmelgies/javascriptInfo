@@ -1,3 +1,4 @@
-
-        alert( 'I’m JavaScript!' );
-      
+let admin, name;
+name = "John";
+admin = name;
+alert(name);
