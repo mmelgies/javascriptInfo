@@ -1,4 +1,2 @@
-let admin, name;
-name = "John";
-admin = name;
-alert(name);
+const ourPlanet = "Earth";
+let currentUser = "noName";
