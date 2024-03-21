@@ -1,2 +1,3 @@
-const ourPlanet = "Earth";
-let currentUser = "noName";
+let isBoss = confirm("Are you the boss?");
+
+alert( isBoss );
